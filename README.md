@@ -5,6 +5,10 @@
 
 ## Clique <a href = https://desafio-codechella-2szf52d0v-nathaliafreboucas.vercel.app>aqui</a> para ir direto para o site.
 
+<p>
+	Resta ainda deixar responsivo
+</p>
+
 ## Project setup
 ```
 npm install
