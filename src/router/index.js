@@ -8,12 +8,41 @@ const routes = [
     component: HomeView
   },
   {
-    path: '/about',
-    name: 'about',
+    path: '/AExperiencia',
+    name: 'aExperiencia',
     // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
+    // this generates a separate chunk (AExperiencia.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
+    component: () => import(/* webpackChunkName: "AExperiencia" */ '../views/AExperiencia.vue')
+  },
+  {
+    path: '/MapaDeSetores',
+    name: 'mapaDeSetores',
+    // route level code-splitting
+    // this generates a separate chunk (MapaDeSetores.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "MapaDeSetores" */ '../views/MapaDeSetores.vue')
+  },
+  {
+    path: '/GarantaSeuIngresso',
+    name: 'garantaSeuIngresso',
+    component: () => import('../views/GarantaSeuIngresso.vue')
+  },
+  {
+    path: '/SeuIngresso',
+    name: 'seuIngresso',
+    // route level code-splitting
+    // this generates a separate chunk (SeuIngresso.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "SeuIngresso" */ '../views/SeuIngresso.vue')
+  },
+  {
+    path: '/InformacoesGerais',
+    name: 'informacoesGerais',
+    // route level code-splitting
+    // this generates a separate chunk (InformacoesGerais.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () => import(/* webpackChunkName: "InformacoesGerais" */ '../views/InformacoesGerais.vue')
   }
 ]
 

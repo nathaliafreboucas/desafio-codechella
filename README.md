@@ -1,4 +1,8 @@
-# desafio-codechella
+# Site CodeChella
+<p>
+	Aproveitei o desafio 6 da Alura, para por em prática meus conhecimentos com o framework Vuejs!
+</p>
+## Clique <a href = #>aqui</a> para ir direto para o site.
 
 ## Project setup
 ```
