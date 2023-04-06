@@ -3,7 +3,7 @@
 	Aproveitei o desafio 6 da Alura, para por em prática meus conhecimentos com o framework Vuejs!
 </p>
 
-## Clique <a href = https://desafio-codechella-2szf52d0v-nathaliafreboucas.vercel.app/GarantaSeuIngresso>aqui</a> para ir direto para o site.
+## Clique <a href = https://desafio-codechella-2szf52d0v-nathaliafreboucas.vercel.app>aqui</a> para ir direto para o site.
 
 ## Project setup
 ```
